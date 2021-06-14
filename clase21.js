@@ -28,7 +28,6 @@ Persona.prototype.saludar = function(){
     else{
         console.log(`Hola, me llamo ${this.nombre} ${this.apellido} y mi altura es ${this.altura}cm. No soy alto!`)
     }
-    debugger
 }
 
 const altura = 180
